@@ -243,6 +243,18 @@ section#contact{
     
 }
 
+/* Commentaires */
+.commentaires article {
+    background-color: #ccc;
+    text-align: left;
+    margin: 1em;
+    padding: 0.5em;
+}
+
+.commentaires article time {
+    font-style: italic;
+}
+
 
 /* ----- FOOTER ----- */
 
