@@ -4,3 +4,4 @@ config/parameters.php
 _psd/
 nbproject/
 .idea/
+admin/node_modules/
