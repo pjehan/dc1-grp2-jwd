@@ -1,6 +1,6 @@
 <?php
 
-require 'model/database.php';
+require_once 'model/database.php';
 
 $contenu = $_POST["contenu"];
 $photo_id = $_POST["photo_id"];
