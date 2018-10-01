@@ -8,6 +8,20 @@ i.fa {
     text-align: center;
 }
 
+th.actions {
+    width: 270px;
+}
+
+td .actions {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+td .actions form {
+    margin: 0;
+}
+
 @media only screen and (max-width: 768px) {
     .navbar-nav .dropdown-menu {
         position: static;
