@@ -8,7 +8,7 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="<?php echo $siteadmin; ?>crud/photo/">
                     <i class="fa fa-picture-o"></i>
                     Photos
                 </a>

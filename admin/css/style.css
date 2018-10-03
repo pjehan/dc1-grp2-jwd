@@ -22,6 +22,13 @@ td .actions form {
     margin: 0;
 }
 
+td img.img-thumbnail {
+    display: block;
+    width: 75px;
+    max-height: 75px;
+    margin: 0 auto;
+}
+
 @media only screen and (max-width: 768px) {
     .navbar-nav .dropdown-menu {
         position: static;
