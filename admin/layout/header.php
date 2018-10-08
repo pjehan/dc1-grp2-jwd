@@ -13,6 +13,8 @@ require_once __DIR__ . '/../security.php';
         <!-- Bootstrap core CSS -->
         <link href="<?php echo $siteadmin; ?>node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
         <link href="<?php echo $siteadmin; ?>node_modules/font-awesome/css/font-awesome.min.css" rel="stylesheet"/>
+        <link href="<?php echo $siteadmin; ?>node_modules/select2/dist/css/select2.min.css" rel="stylesheet"/>
+        <link href="<?php echo $siteadmin; ?>node_modules/datatables.net-bs4/css/dataTables.bootstrap4.min.css" rel="stylesheet"/>
         
         <!-- Custom styles for this template -->
         <link href="<?php echo $siteadmin; ?>css/dashboard.css" rel="stylesheet">
